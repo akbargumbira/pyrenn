@@ -16,8 +16,7 @@ setup(
     py_modules=['pyrenn'],
     license='GPL',
     author='Dennis Atabay',
-    author_email='info@inasafe.org',
-    url='http://inasafe.org/',
+    url='http://github.com/yabata/pyrenn',
     description='A recurrent neural network toolbox for Python and Matlab.',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
